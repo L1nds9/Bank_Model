@@ -9,7 +9,6 @@ public class Main {
 		Online dude = new Online();
 		BrickAndMortar sears = new BrickAndMortar();
 		CafeBranch roost = new CafeBranch();
-		}
 
 	}
 
