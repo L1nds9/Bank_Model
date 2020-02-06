@@ -1,10 +1,14 @@
 package main;
+import bank.*;
 
 public class Main {
 
 	public static void main(String[] args) {
-		for(int i=0; i<=40_000_000; i++)	{
-			System.out.println(i+ "My wut now??");
+		//declare and instantiate a Bank, an Online, a Brick and mortar, and a cafe
+		Bank aniMommy = new Bank();
+		Online dude = new Online();
+		BrickAndMortar sears = new BrickAndMortar();
+		CafeBranch roost = new CafeBranch();
 		}
 
 	}
